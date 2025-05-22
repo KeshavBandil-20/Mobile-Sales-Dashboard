@@ -3,6 +3,12 @@
 
 A comprehensive Power BI dashboard that visualizes and analyzes mobile phone sales performance. This project helps stakeholders make data-driven decisions by providing insights into sales trends, revenue, top-selling brands, and regional performance.
 
+![image](https://github.com/KeshavBandil-20/Mobile-Sales-Dashboard/blob/002b65f55d6cb7c4bbdc1b6266ce5fef63983f9d/Dashboard.png)
+
+![image](https://github.com/KeshavBandil-20/Mobile-Sales-Dashboard/blob/002b65f55d6cb7c4bbdc1b6266ce5fef63983f9d/MDT%20Report.png)
+
+![image](https://github.com/KeshavBandil-20/Mobile-Sales-Dashboard/blob/002b65f55d6cb7c4bbdc1b6266ce5fef63983f9d/Last%20Year.png)
+
 ## 📊 Dashboard Features
 
 - **Total Sales Overview**  
@@ -173,7 +179,5 @@ A comprehensive Power BI dashboard that visualizes and analyzes mobile phone sal
 
 - Experiment with promotional campaigns during low-sales months.
 
-![image](https://github.com/KeshavBandil-20/Mobile-Sales-Dashboard/blob/002b65f55d6cb7c4bbdc1b6266ce5fef63983f9d/Dashboard.png)
-![image](https://github.com/KeshavBandil-20/Mobile-Sales-Dashboard/blob/002b65f55d6cb7c4bbdc1b6266ce5fef63983f9d/MDT%20Report.png)
-![image](https://github.com/KeshavBandil-20/Mobile-Sales-Dashboard/blob/002b65f55d6cb7c4bbdc1b6266ce5fef63983f9d/Last%20Year.png)
+
 
