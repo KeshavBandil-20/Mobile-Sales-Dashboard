@@ -172,3 +172,8 @@ A comprehensive Power BI dashboard that visualizes and analyzes mobile phone sal
 - Monitor customer feedback trends.
 
 - Experiment with promotional campaigns during low-sales months.
+
+![image](https://github.com/user-attachments/assets/cf598f88-7148-4091-9854-ff4f3ed5deb0)
+![image](https://github.com/user-attachments/assets/dc8658c1-c873-4bee-bc03-5795a3dc8b23)
+![image](https://github.com/user-attachments/assets/db8e7b1d-df04-47fe-a964-5c99fc1e94df)
+
